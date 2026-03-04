@@ -1,5 +1,3 @@
----
-
 # 📺 YouTube Playlist Downloader
 
 A powerful, "polite," and versatile YouTube metadata extractor and media downloader. Whether you need to sync a channel's playlists to your **cliamp** player, export a library to **CSV**, or download high-quality **MP3s**, this script handles it with built-in anti-abuse delays to keep your IP safe.
